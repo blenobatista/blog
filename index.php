@@ -10,11 +10,12 @@
 <div class="cabecera">
 
 </div>
-<div class="cuerpo">
+<div class="fondo">
     
 </div>
-
-
+<div class="pie">
+    
+</div>
 </body>
 </html>
 
